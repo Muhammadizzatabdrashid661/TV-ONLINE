@@ -4514,8 +4514,6 @@ https://bkm.beetv.kz/btv/live/hls/000004619.m3u8|Referer=http://www.iptvshams.uz
 #EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://www.shutterstock.com/image-vector/holy-quran-islamic-book-calligraphy-600nw-281022530.jpg" tvg-logo="https://i.postimg.cc/G2vvg2qg/Screenshot-2024-05-12-012250.jpg" group-title="AlQuran Channel", Gus Anom TV
 https://ythls-v2.onrender.com/video/G_7kZBIPKzU.m3u8
 
-#EXTM3U vod_library="https://waa.ai/ttordt"
-
 #EXTINF:-1 group-logo="https://archive.org/download/logo.brootv_hbo/HBO.png" type="" group-title="HBO GO VOD" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",1 Taking On Taylor Swift 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5376,3 +5374,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed9405210749
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rOjEp/rhGUgVrTb1hHvoXA","kid":"/dEg8ce598a5m2Ym3cH9FA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/IDN_DOLBY_index.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTM3U vod_library="https://waa.ai/ttordt"
+#EXTM3U billed-msg="| DILARANG MENJUAL | DILARANG SNIFFING | OWNED BY MUHAMMAD IZZAT ABD RASHID"
