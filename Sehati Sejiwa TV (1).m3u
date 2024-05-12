@@ -4460,5 +4460,21 @@ https://bkm.beetv.kz/btv/live/hls/000004619.m3u8|Referer=http://www.iptvshams.uz
 #EXTINF:-1 tvg-id="" tvg-name="" group-logo="https://www.shutterstock.com/image-vector/holy-quran-islamic-book-calligraphy-600nw-281022530.jpg" tvg-logo="https://i.postimg.cc/G2vvg2qg/Screenshot-2024-05-12-012250.jpg" group-title="AlQuran Channel", Gus Anom TV
 https://ythls-v2.onrender.com/video/G_7kZBIPKzU.m3u8
 
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" group-title="Sports Campuran" group-logo="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3JtNjkyLXRvbi0wMDMtZWxlbWVudGdyb3VwLnBuZw.png" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png",Star Sports 1 HD 
+http://watchindia.net:8880/live/37281/04057/2186.ts
+
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 1" group-title="Sports Campuran" group-logo="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3JtNjkyLXRvbi0wMDMtZWxlbWVudGdyb3VwLnBuZw.png" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png",Star Sports 2 HD 
+http://watchindia.net:8880/live/37281/04057/1069.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" group-title="Sports Campuran" group-logo="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3JtNjkyLXRvbi0wMDMtZWxlbWVudGdyb3VwLnBuZw.png" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",Star Sports Select 1 HD 
+http://watchindia.net:8880/live/37281/04057/1070.ts
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" group-title="Sports Campuran" group-logo="https://images.rawpixel.com/image_png_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3JtNjkyLXRvbi0wMDMtZWxlbWVudGdyb3VwLnBuZw.png" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png",Star Sports Select 2 HD
+http://watchindia.net:8880/live/37281/04057/1071.ts
+
+
+
+
+
 
 #EXTM3U billed-msg="| DILARANG MENJUAL | DILARANG SNIFFING | OWNED BY MUHAMMAD IZZAT ABD RASHID"
