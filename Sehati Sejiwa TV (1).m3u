@@ -169,6 +169,13 @@ https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="122" tvg-id="122" tvg-chno="122" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png",TVS (Myfreeview Feed)
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="myFreeview: TV" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_TVS.png",122 TVS (Astro  Feed)
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
 #EXTINF:-1 group-title="Astroxx" tvg-id="AstroRia" ch-number="104" group-logo="https://i.postimg.cc/cJNBS015/muat-turun.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
 https://linears-playback.astro.com.my/vsg/41AzOOiRtNHL_h4U_rWhF5FxhNZX9wCNK33qkEjerN_UM=3pXQ/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
