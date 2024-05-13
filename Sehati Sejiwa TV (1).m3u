@@ -87,7 +87,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default.mpd
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="101" tvg-id="101" tvg-chno="101" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png",TV1 (MyFreeview Feed)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MyFreeview: TV" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MyFreeview: TV" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (Sooka Feed)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -100,9 +100,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6GP3FJ5S91Jr90QDTifOjQ", "kid":"977qwgCvQNWIbf6Y1y/PyA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 HD" group-title="myFreeview: TV" group-logo="https://i.postimg.cc/bJ3252vp/images.png" tvg-logo="https://iili.io/1NKqVp.png",TV2 (Astro Feed)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
