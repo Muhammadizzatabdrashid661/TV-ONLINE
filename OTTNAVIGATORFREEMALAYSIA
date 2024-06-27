@@ -6645,6 +6645,25 @@ https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="808.astro" tvg-name="SPOTV STADIA" group-title="Sports" group-logo="https://i.postimg.cc/8s8q5xjk/Polish-20240626-200848991.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2-STADIA.png",SPOTV2 STADIA CH809
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5149/default.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/NGxN2ytT/images-23.jpg" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",CHC Action Movies 
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/NMQQbyzT/CHC.png" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",CHC Home Theater
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/Ghj38xgR/CHC.png" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",CHC Home Theater
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/T1QRSnsg/8f5jMP8.jpg" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",MOVIES ACTION
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/2SQHfTws/630ygMl.jpg" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",MOVIES THRILLER
+https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="0000" tvg-logo="https://i.postimg.cc/CKPMmGW8/7Sqp7OP.jpg" group-title="Movies Section 2" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JIHh9kadqouFUvwJqjl8pWeaRnTrbYcB_Mh49iMJeg&s",MOVIES CHANNEL
+https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
+
+
 #EXTM3U billed-msg="| DILARANG MENJUAL | DILARANG SNIFFING | DILARANG  SHARE LUAR GROUP | DILARANG SEBARKAN LUAR GROUP | OWNED BY MUHAMMAD IZZAT ABD RASHID"
 
 INGAT ALLAH AKAN BERI BALASAN KEPADA ORANG MENCURI DAN MENJUAL HAK ORANG LAIN,NERAKA JAHANAM LAH MEREKA
